@@ -71,4 +71,9 @@ _ReSharper*/
 
 # DotNet CLI
 project.lock.json
+
+# SQLite runtime files
+*.db-journal
+*.db-shm
+*.db-wal
 ```
