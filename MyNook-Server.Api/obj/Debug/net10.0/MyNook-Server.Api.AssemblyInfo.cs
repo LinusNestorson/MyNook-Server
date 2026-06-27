@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MyNook-Server.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5e7b1d8f079900740324b5334e0e5ef3f3dbf62b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+de33ad516d3282512c202b788f6f4b9ba1b7b793")]
 [assembly: System.Reflection.AssemblyProductAttribute("MyNook-Server.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MyNook-Server.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
