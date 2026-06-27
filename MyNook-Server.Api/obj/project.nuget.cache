@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "/j8wDOtGmYw=",
+  "dgSpecHash": "8mWDQ9R6eHY=",
   "success": true,
   "projectFilePath": "C:\\Users\\lnest\\source\\repos\\MyNook\\MyNook-Server\\MyNook-Server.Api\\MyNook-Server.Api.csproj",
   "expectedPackageFiles": [
@@ -27,5 +27,18 @@
     "C:\\Users\\lnest\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.1.11\\sqlitepclraw.provider.e_sqlite3.2.1.11.nupkg.sha512",
     "C:\\Users\\lnest\\.nuget\\packages\\system.identitymodel.tokens.jwt\\8.0.1\\system.identitymodel.tokens.jwt.8.0.1.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "Package 'SQLitePCLRaw.lib.e_sqlite3' 2.1.11 has a known high severity vulnerability, https://github.com/advisories/GHSA-2m69-gcr7-jv3q",
+      "projectPath": "C:\\Users\\lnest\\source\\repos\\MyNook\\MyNook-Server\\MyNook-Server.Api\\MyNook-Server.Api.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\lnest\\source\\repos\\MyNook\\MyNook-Server\\MyNook-Server.Api\\MyNook-Server.Api.csproj",
+      "libraryId": "SQLitePCLRaw.lib.e_sqlite3",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
 }

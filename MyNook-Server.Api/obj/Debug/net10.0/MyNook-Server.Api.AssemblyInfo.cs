@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MyNook-Server.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eb0392e741ec43d6800eaf53d1ae402c54872168")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8ece3fed22b2bb5b356a29b5b428c6a0d868beda")]
 [assembly: System.Reflection.AssemblyProductAttribute("MyNook-Server.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MyNook-Server.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
